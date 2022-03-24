@@ -17,7 +17,7 @@
             <div class="navbar-item">
                 <div class="buttons">
                 <a class="button is-primary" @click="goToMySite()">
-                    <strong>Made by naufalafif58</strong>
+                    <strong>Made by SoeHtun</strong>
                 </a>
                 </div>
             </div>
